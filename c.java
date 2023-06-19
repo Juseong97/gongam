@@ -23,7 +23,9 @@ public class c extends b{
         System.out.println("feature kjs-2 modified by 김주성2");
     }
 
-
+    public void mergeTest(){
+        System.out.println("kjs2 파일");
+    }
     public void featureKjs(){
         System.out.println("feature kjs method 입니다");
     }
