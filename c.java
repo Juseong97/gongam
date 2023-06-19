@@ -14,11 +14,8 @@ public class c extends b{
     public void kjs(){
         System.out.println("git git git by 김주성");
     }
-<<<<<<< HEAD
     public void kjs2(){
         System.out.println("feature kjs-2 modified by 김주성2");
     }
-=======
 
->>>>>>> feature/kjs2
 }
