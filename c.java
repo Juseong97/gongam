@@ -10,7 +10,12 @@ public class c extends b{
         System.out.println("git 공부중입니다. by 김주성");
     }
 
+    // git
+
     // kjs2 feature에서 수정
+
+    // kjs2 feature에서 수정
+
     public void kjs(){
         System.out.println("git git git by 김주성");
     }
@@ -18,7 +23,13 @@ public class c extends b{
         System.out.println("feature kjs-2 modified by 김주성2");
     }
 
-    public void kjsCommon(){
-        System.out.println("merge 하자!");
+
+    public void featureKjs(){
+        System.out.println("feature kjs method 입니다");
     }
+
+    public void kjsCommon(){
+        System.out.println("merge 하자!!!");
+    }
+
 }
