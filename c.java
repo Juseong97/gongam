@@ -9,10 +9,15 @@ public class c extends b{
     public void git(){
         System.out.println("git 공부중입니다. by 김주성");
     }
+
+    // git
     public void kjs(){
         System.out.println("git git git git by 김주성");
     }
     public void kjs2(){
         System.out.println("feature kjs-2 modified by 김주성2");
+    }
+    public void featureKjs(){
+        System.out.println("feature kjs method 입니다");
     }
 }
