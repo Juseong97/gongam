@@ -1,0 +1,12 @@
+public class c extends b{
+    public c(String name, String addr) {
+        super(name, addr);
+    }
+
+    public void hello(){
+        System.out.println("잘부탁드립니다.");
+    }
+    public void git(){
+        System.out.println("git 공부중입니다. by 김주성");
+    }
+}
