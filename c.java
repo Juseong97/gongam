@@ -9,4 +9,7 @@ public class c extends b{
     public void git(){
         System.out.println("git 공부중입니다. by 김주성");
     }
+    public void kjs(){
+        System.out.println("git git git git by 김주성");
+    }
 }
